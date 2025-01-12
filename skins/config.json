@@ -1,0 +1,17 @@
+[
+  {
+    "server": "lobby",
+    "npc": "EventA",
+    "url": "https://raw.githubusercontent.com/obaudna228/eventnetwork/86f5cfea945f6006818253d8586486cd5e977b67/skins/event-a.png"
+  },
+  {
+    "server": "lobby",
+    "npc": "EventB",
+    "url": "https://raw.githubusercontent.com/obaudna228/eventnetwork/86f5cfea945f6006818253d8586486cd5e977b67/skins/event-b.png"
+  },
+  {
+    "server": "lobby",
+    "npc": "Soon",
+    "url": "https://raw.githubusercontent.com/obaudna228/eventnetwork/86f5cfea945f6006818253d8586486cd5e977b67/skins/soon.png"
+  }
+]
